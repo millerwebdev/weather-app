@@ -1,5 +1,5 @@
 # React Weather App!
-This Application uses npm
+This Application uses React with React Router DOM.
 
 ## How to Run Locally
 To run this App locally, follow these steps below:
