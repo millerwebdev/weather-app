@@ -36,10 +36,10 @@ The steps for VS Code are essentially the same as Above, only utilizing VS Code'
 1. Open VS Code and navigate to the folder you wish to Clone this Repo to.
 2. Once inside your folder, run the following command in the VS Code Terminal to Clone the Repo:
 > git clone https://github.com/millerwebdev/weather-app.git
-4. The Repo will create a Folder called "weather-app", navigate into that folder once the Clone has completed
-5. Once inside the folder, use the following command to install npm and retrieve all the dependancies
+3. The Repo will create a Folder called "weather-app", navigate into that folder once the Clone has completed
+4. Once inside the folder, use the following command to install npm and retrieve all the dependancies
 > npm install
-6. After npm finishes installing, you can use the following command in the VS Code Terminal to start the Development Server:
+5. After npm finishes installing, you can use the following command in the VS Code Terminal to start the Development Server:
 > npm start
 
 Huzzah! After the "npm start" command, a browser should pop up and load the Weather App!
